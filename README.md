@@ -1,7 +1,6 @@
 # Learning Tracker
 
 ## Introduction
-TODO
 
 ## Functional architecture
 
